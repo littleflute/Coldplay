@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Mylo Xyloto.mp3";		
+f[2]	= "02 Hurts Like Heaven.mp3";		
+f[3]	= "03 Paradise.mp3";		
+f[4]	= "04 Charlie Brown.mp3";		
+f[5]	= "05 Us Against the World.mp3";		
+f[6]	= "06 M.M.I.X.mp3";		
+f[7]	= "07 Every Teardrop Is a Waterfall.mp3";		
+f[8]	= "08 Major Minus.mp3";		
+f[9]	= "09 U.F.O.mp3";		
+f[10]	= "10 Princess of China.mp3";		
+f[11]	= "11 Up in Flames.mp3";		
+f[12]	= "12 A Hopeful Transmission.mp3";		
+f[13]	= "13 Don't Let It Break Your Heart.mp3";		
+f[14]	= "14 Up with the Birds.mp3";		
